@@ -1,1 +1,4 @@
-abc
+printf
+scanf
+printf
+scanf
