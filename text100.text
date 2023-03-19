@@ -5,3 +5,6 @@ integer
 float
 double
 long double
+string
+long float
+booean
