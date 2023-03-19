@@ -3,3 +3,5 @@ scanf
 void
 integer
 float
+double
+long double
